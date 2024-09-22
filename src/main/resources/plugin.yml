@@ -1,0 +1,5 @@
+name: NoFallDamage
+version: '1.0-SNAPSHOT'
+main: winlyps.noFallDamage.NoFallDamage
+api-version: '1.16'
+authors: [ Winlyps ]
